@@ -25,7 +25,7 @@ Built by a team of four for our PROG7314 Portfolio of Evidence (2026). I was the
 
 ## My role
 
-I built the app's interface: 22 commits on my UI branch, which the team integrated into the main app. Most of it shipped as I wrote it (about 3,500 of 4,250 lines unchanged on `main`).
+I built the app's interface: 26 commits, which the team integrated into the main app. Most of it shipped as I wrote it (3,577 of my 4,273 lines of Kotlin, 84%, unchanged on `main`).
 
 **Screens**
 - Built 12 screens in Kotlin and Jetpack Compose: onboarding, language select, sign-in, biometric unlock, home feed, search, meetup detail, group detail, create meetup, create group, profile and settings.
